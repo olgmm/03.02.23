@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+
+header,footer {
+    background-color: #85004B;
+    height: 130px;
+}
+
+header,main,footer {
+    color: white;
+    padding-top: 15px;
+    
+}
+
+main {
+    background-color: #E667AF;
+}
+
+h1,h2 {
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+
+
+ul {
+    list-style: url("https://learn.algoritmika.org/uploads/2021/01/smile_0_1611261360.svg");
+}
+
+.olol {
+    text-decoration: none;
+    background-color: white;
+    margin-left: 20px;
+    color: black;
+    padding: 10px;
+    font-size: 25px;
+    border-radius: 25px;
+}
